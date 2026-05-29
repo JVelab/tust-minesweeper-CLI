@@ -28,5 +28,5 @@ Tech Stack
 - Rust
 - ratatui (TUI)
 - crossterm
-
+```
 ![Demostración del proyecto](assets/images/demo.webp)
